@@ -29,11 +29,11 @@ const ChatIcon = () => {
       window,
       document,
       "script",
-      "BAB7C759-C70C-45ED-9987-414B76B81F37",
+      "792E6EC9-9CF8-46CD-B1F9-CC8DA445834A",
       "dTtiij56YxTvc-eKxEMnJ",
       {
         apiHost:
-          "https://api-BAB7C759-C70C-45ED-9987-414B76B81F37.sendbird.com",
+          "https://api-792E6EC9-9CF8-46CD-B1F9-CC8DA445834A.sendbird.com",
       }
     );
 
