@@ -16,7 +16,7 @@ const Footer = () => {
           <div className="space-y-4">
             <Logo>Buyers</Logo>
             <p className="text-gray-600 text-sm">
-              Discover curated furniture collections at Buyers, blending style
+              Discover best clothing collections at Buyers, blending style
               and comfort to elevate your living spaces.
             </p>
             <SocialMedia
