@@ -35,6 +35,12 @@ const socialLink = [
     href: "https://www.youtube.com/",
     icon: <Facebook className="w-5 h-5" />,
   },
+    {
+    title: "Slack",
+    href: "https://slack.com/",
+    icon: <Slack className="w-5 h-5" />,
+  },
+
 ];
 
 const SocialMedia = ({ className, iconClassName, tooltipClassName }: Props) => {
